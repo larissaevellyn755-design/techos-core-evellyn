@@ -1,0 +1,15 @@
+
+{
+  "name": "techos-core-evellyn",
+  "version": "1.0.0",
+  "description": "TechOS Core - Sistema de Ordens de Serviço",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --check index.js"
+  },
+  "keywords": ["javascript", "poo", "factory-method", "singleton"],
+  "author": "Evellyn Larissa",
+  "license": "ISC",
+  "type": "module"
+}
